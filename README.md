@@ -59,17 +59,20 @@ Python program based on steganographic methods to hide files in images using the
 A Python programming language library which can be imported into scripts to solve steganography challenges.
 
 
-# Guides and lists of tools for steganography CTF challenges
+# GUIDES FOR STEG CTF CHALLENGES
 https://medium.com/@FourOctets/ctf-tidbits-part-1-steganography-ea76cc526b40
+
 https://project-awesome.org/apsdehal/awesome-ctf#steganography-1
+
 https://fareedfauzi.gitbook.io/ctf-checklist-for-beginner/steganography
 
 
-# More about steg history and methods
+# MORE ABOUT STEG HISTORY AND METHODS
 https://www.vskills.in/certification/tutorial/steganography-2/
 
 
-# References
-For tool descriptions:
+# REFERENCES
+
 https://0xrick.github.io/lists/stego/
+
 https://www.4rth4s.xyz/2020/10/learning-audio-forensics-with-audacity.html?showComment=1646079629457
