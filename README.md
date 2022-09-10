@@ -3,7 +3,7 @@
 An open-source audio file and waveform-viewing tool. Audio waveforms can be seen using the spectogram view. Audacity can also enable you to slow down, reverse, and do other manipulations that might reveal a hidden message if you suspect there is one (if you can hear garbled audio, interference, or static).
 
 ## SONIC VISUALIZER
-A program for viewing and analysing the contents of music audio files. Can be better than AUDACITY for spectrogram viewing.
+A program for viewing and analysing the contents of music audio files. Can be better than AUDACITY for spectrogram viewing. Find it at: https://www.sonicvisualiser.org/
 
 ## GIMP
 GIMP or other image editing software like Photoshop can be used to uncover the flag by using different filters and colour ranges.
@@ -57,6 +57,9 @@ Python program based on steganographic methods to hide files in images using the
 
 ## PYTHON STEGANO LIBRARY
 A Python programming language library which can be imported into scripts to solve steganography challenges.
+
+## SPECTOGRAPHIC
+Turn an image into sound whose spectrogram looks like the image. Find it at: shttps://github.com/LeviBorodenko/spectrographic
 
 
 # GUIDES FOR STEG CTF CHALLENGES
