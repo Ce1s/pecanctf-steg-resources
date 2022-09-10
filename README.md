@@ -59,7 +59,7 @@ Python program based on steganographic methods to hide files in images using the
 A Python programming language library which can be imported into scripts to solve steganography challenges.
 
 ## SPECTOGRAPHIC
-Turn an image into sound whose spectrogram looks like the image. Find it at: shttps://github.com/LeviBorodenko/spectrographic
+Turn an image into sound whose spectrogram looks like the image. Find it at: https://github.com/LeviBorodenko/spectrographic
 
 
 # GUIDES FOR STEG CTF CHALLENGES
