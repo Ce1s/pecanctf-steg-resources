@@ -1,4 +1,4 @@
-# STEG TOOLS INSTALLED ON THE PROVIDED KALI MACHINE
+# STEG TOOLS ( MOST ARE INSTALLED ON THE PROVIDED KALI MACHINE)
 ## AUDACITY
 An open-source audio file and waveform-viewing tool. Audio waveforms can be seen using the spectogram view. Audacity can also enable you to slow down, reverse, and do other manipulations that might reveal a hidden message if you suspect there is one (if you can hear garbled audio, interference, or static).
 
